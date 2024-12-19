@@ -3,6 +3,7 @@ import requests
 from PIL import Image
 import io
 
+
 # Заголовок приложения
 st.title("Классификация изображений")
 
